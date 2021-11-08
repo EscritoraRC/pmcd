@@ -1,4 +1,4 @@
-$secondsdelay = 60;
+$secondsdelay = 160;
 function unhide (divID){
 var item = document.getElementById(divID);
 if (item){
